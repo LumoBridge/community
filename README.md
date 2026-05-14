@@ -1,10 +1,13 @@
 <div align="center">
 
+<!-- Add your LumoBridge logo here -->
+<img src="./LumoBridge_logo.png" alt="LumoBridge Logo" width="150" />
+
 # LumoBridge Community
 
 ### Public discussions, product feedback, updates, and community questions for LumoBridge.
 
-**Help shape practical digital tools for clarity, progress, and protection.**
+**We build practical digital tools that help people reflect, plan, and stay prepared.**
 
 <br />
 
@@ -19,25 +22,54 @@
 
 Welcome to the public community space for **LumoBridge**.
 
-LumoBridge builds thoughtful digital products that help people organize decisions, track progress, and prepare with greater clarity. Our work includes guided growth tools, private workplace documentation resources, and AI-assisted workflows designed around real user needs.
+We create digital products that help people think clearly, make progress, and organize what matters. Some of our work focuses on reflection and personal growth. Other products support workplace documentation, planning, and AI-assisted workflows.
+
+This space is here for updates, feedback, questions, and thoughtful conversation.
 
 ---
 
-## Help Shape What We Build
+## Explore ThriveMap
 
-We are currently gathering feedback for three active areas of research and product development:
+**ThriveMap** is a guided reflection app designed to help people slow down, think clearly, and build a steady reflection routine.
 
-| Focus Area | What We Are Learning |
+Each session is short and structured, with prompts across four areas of life:
+
+- **Personal**
+- **Professional**
+- **Social**
+- **Integrated**
+
+<div align="center">
+
+[![Open ThriveMap](https://img.shields.io/badge/Open-ThriveMap-6366F1?style=for-the-badge)](ADD_YOUR_THRIVEMAP_APP_LINK_HERE)
+
+</div>
+
+<p align="center">
+  <a href="ADD_YOUR_THRIVEMAP_WEB_LINK_HERE">Web</a>
+  &nbsp;·&nbsp;
+  <a href="ADD_YOUR_APP_STORE_LINK_HERE">iOS</a>
+  &nbsp;·&nbsp;
+  <a href="ADD_YOUR_GOOGLE_PLAY_LINK_HERE">Android</a>
+</p>
+
+---
+
+## We Would Value Your Feedback
+
+We are currently gathering input for products and community ideas that are still in development.
+
+| Project | What We Want to Learn |
 |---|---|
-| **ThrivePath** | How people manage goals, leadership growth, action plans, and progress with greater clarity. |
-| **WorkShield** | What people need from a private workplace documentation tool when preparing records, timelines, and supporting information. |
-| **WorkShield Private Community** | Whether people would value a trusted education and support space around workplace concerns, preparation, and resources. |
+| **ThrivePath** | What people need from a goal, growth, and progress platform with clear guidance and AI support. |
+| **WorkShield** | What would make a private workplace documentation tool genuinely useful and trustworthy. |
+| **WorkShield Private Community** | Whether people would find value in a private space for workplace education, resources, and peer support. |
 
 ---
 
-## Share Your Feedback
+## Take a Survey
 
-Your input helps LumoBridge make better product decisions before launch.
+Your feedback helps us make better decisions before these products move further.
 
 <div align="center">
 
@@ -55,10 +87,10 @@ Your input helps LumoBridge make better product decisions before launch.
 
 Visit the **Discussions** tab to:
 
-- Share ideas and product feedback  
-- Ask questions about LumoBridge initiatives  
-- Respond to community updates  
-- Follow our work as products continue to develop  
+- Share ideas
+- Ask questions
+- Leave product feedback
+- Follow LumoBridge updates
 
 <div align="center">
 
@@ -70,6 +102,6 @@ Visit the **Discussions** tab to:
 
 ## Thank You
 
-Thank you for helping LumoBridge build with real voices, practical feedback, and meaningful community input.
+Thank you for taking the time to visit, share feedback, and follow our work.
 
-Your participation helps us create products that are clearer, more useful, and more grounded in what people actually need.
+Every response, question, and suggestion helps LumoBridge build products that are clearer, more useful, and more connected to real needs.
